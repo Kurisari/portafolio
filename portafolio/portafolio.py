@@ -39,8 +39,8 @@ app = rx.App(
     style=BASE_STYLE,
     theme=rx.theme(
         appearance="dark",
-        accent_color="grass",
-        radius="full"
+        accent_color="cyan",
+        radius="large"
     )
 )
 
