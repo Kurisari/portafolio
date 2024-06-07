@@ -113,7 +113,7 @@
             "description": "Página web de ayuda para foráneos de la Universidad Panamericana campus Aguascalientes.",
             "technologies": [
                 {
-                    "icon": "html5-plain",
+                    "icon": "devicon-html5-plain",
                     "name": "Web"
                 }
             ],
@@ -126,7 +126,7 @@
             "description": "Página Web creada y gestionada por mi, en la cual se muestra acerca de esta causa social.",
             "technologies": [
                 {
-                    "icon": "html5-plain",
+                    "icon": "devicon-html5-plain",
                     "name": "Web"
                 }
             ],
