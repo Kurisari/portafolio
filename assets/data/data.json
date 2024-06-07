@@ -1,128 +1,140 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Cristian Aragon Salazar | Portafolio",
+    "description": "Ingeniero en Inteligencia Artificial",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Cristian Aragon Salazar",
+    "skill": "Ing. Inteligencia Artificial",
+    "location": "Aguascalientes, México",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "crisarag8.sal@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/Kurisari",
+        "likedin": "https://www.linkedin.com/in/cristian-aragon-salazar/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Soy un Ingeniero en Inteligencia Artificial con experiencia en el desarrollo de software y aplicaciones web. Me apasiona la tecnología y la programación, siempre estoy en constante aprendizaje y me gusta enfrentar nuevos retos. Me considero una persona proactiva, responsable y comprometida con mi trabajo.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
-        },
-        {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-javascript-plain",
+            "name": "JavaScript"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
+            "icon": "graduation-cap",
+            "title": "Estudiante",
             "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "description": "Estudiante en Universidad Panamericana",
+            "date": "2022 - Actualidad"
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "regex",
+            "title": "RegEx-Modificado",
+            "subtitle": "Software Estructuras de Datos y Algoritmos",
+            "description": "Software que permite la creación de expresiones regulares y su posterior evaluación en un texto de entrada.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
-                },
-                {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
                 }
             ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://github.com/Kurisari/RegEx-Modificado",
+            "github": "https://github.com/Kurisari/RegEx-Modificado"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "Mastermind",
+            "subtitle": "Juego",
+            "description": "Juego de lógica en el que el jugador debe adivinar una combinación de colores oculta en el menor número de intentos posibles.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-cplusplus-plain",
+                    "name": "C++"
                 }
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://github.com/Kurisari/Mastermind_CPP",
+            "github": "https://github.com/Kurisari/Mastermind_CPP"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Compresor de Archivos",
+            "subtitle": "Software Estructuras de Datos y Algoritmos",
+            "description": "Software que permite la compresión y descompresión de archivos utilizando el algoritmo de compresión Huffman.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "url": "https://github.com/Kurisari/Compresor_Archivos",
+            "github": "https://github.com/Kurisari/Compresor_Archivos"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Solucionador de Cubos Rubik",
+            "subtitle": "Software Estructuras de Datos y Algoritmos",
+            "description": "Software que permite resolver un cubo Rubik de 3x3x3 utilizando los algoritmos de: búsqueda en anchura (BFS), a*, e ida*.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "url": "https://github.com/Kurisari/Rubik-s-Cube-Solver",
+            "github": "https://github.com/Kurisari/Rubik-s-Cube-Solver"
+        },
+        {
+            "icon": "bug-off",
+            "title": "Quixo Bot",
+            "subtitle": "Software Estructuras de Datos y Algoritmos",
+            "description": "Bot que juega Quixo contra otro bot que utiliza el algoritmo minimax con poda alfa-beta para tomar decisiones.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "url": "https://github.com/Kurisari/quixo-bot",
+            "github": "https://github.com/Kurisari/quixo-bot"
         }
     ],
     "training": [
         {
             "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
+            "title": "Ingeniero en Inteligencia Artificial",
+            "subtitle": "Universidad Panamericana",
+            "description": "Estudio de las técnicas y algoritmos de inteligencia artificial para la creación de sistemas inteligentes.",
+            "date": "Agosto 2022 - Actualidad",
             "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Ingeniero Agropecuario",
+            "subtitle": "Escuela El Peñón",
+            "description": "Gestión de proyectos agropecuarios.",
+            "date": "Agosto 2019 - Agosto 2022"
         }
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
-        },
-        {
-            "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
-        },
-        {
-            "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "image": "/extra1.png",
+            "title": "Storytelling en el Marketing Digital",
+            "description": "Santander Open Academy",
+            "url": "https://media.licdn.com/dms/image/D562DAQFRqP4zw5dW4A/profile-treasury-document-images_1280/1/1716179645544?e=1718841600&v=beta&t=KUr5knK8TFAcklna50PdQHdx-K1kyKvXG8RY48vpKF8"
         }
     ]
 }
