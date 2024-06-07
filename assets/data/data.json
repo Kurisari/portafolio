@@ -113,7 +113,6 @@
             "description": "Página web de ayuda para foráneos de la Universidad Panamericana campus Aguascalientes.",
             "technologies": [
                 {
-                    "icon": "navigation",
                     "name": "Web"
                 }
             ],
@@ -126,7 +125,6 @@
             "description": "Página Web creada y gestionada por mi, en la cual se muestra acerca de esta causa social.",
             "technologies": [
                 {
-                    "icon": "navigation",
                     "name": "Web"
                 }
             ],
@@ -143,7 +141,7 @@
         },
         {
             "icon": "graduation-cap",
-            "title": "Ingeniero Agropecuario",
+            "title": "Técnico Agropecuario",
             "subtitle": "Escuela El Peñón",
             "description": "Gestión de proyectos agropecuarios.",
             "date": "Agosto 2019 - Agosto 2022"
