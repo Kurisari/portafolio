@@ -1,9 +1,9 @@
 {
-    "title": "Cristian Aragon Salazar | Portafolio",
+    "title": "Cristian Aragón Salazar | Portafolio",
     "description": "Ingeniero en Inteligencia Artificial",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Cristian Aragon Salazar",
+    "name": "Cristian Aragón Salazar",
     "skill": "Ing. Inteligencia Artificial",
     "location": "Aguascalientes, México",
     "media": {
@@ -56,7 +56,7 @@
             "github": "https://github.com/Kurisari/RegEx-Modificado"
         },
         {
-            "icon": "bug-off",
+            "icon": "gamepad-2",
             "title": "Mastermind",
             "subtitle": "Juego",
             "description": "Juego de lógica en el que el jugador debe adivinar una combinación de colores oculta en el menor número de intentos posibles.",
@@ -70,7 +70,7 @@
             "github": "https://github.com/Kurisari/Mastermind_CPP"
         },
         {
-            "icon": "bug-off",
+            "icon": "file-diff",
             "title": "Compresor de Archivos",
             "subtitle": "Software Estructuras de Datos y Algoritmos",
             "description": "Software que permite la compresión y descompresión de archivos utilizando el algoritmo de compresión Huffman.",
@@ -84,7 +84,7 @@
             "github": "https://github.com/Kurisari/Compresor_Archivos"
         },
         {
-            "icon": "bug-off",
+            "icon": "box",
             "title": "Solucionador de Cubos Rubik",
             "subtitle": "Software Estructuras de Datos y Algoritmos",
             "description": "Software que permite resolver un cubo Rubik de 3x3x3 utilizando los algoritmos de: búsqueda en anchura (BFS), a*, e ida*.",
@@ -98,7 +98,7 @@
             "github": "https://github.com/Kurisari/Rubik-s-Cube-Solver"
         },
         {
-            "icon": "bug-off",
+            "icon": "swords",
             "title": "Quixo Bot",
             "subtitle": "Software Estructuras de Datos y Algoritmos",
             "description": "Bot que juega Quixo contra otro bot que utiliza el algoritmo minimax con poda alfa-beta para tomar decisiones.",
@@ -118,8 +118,7 @@
             "title": "Ingeniero en Inteligencia Artificial",
             "subtitle": "Universidad Panamericana",
             "description": "Estudio de las técnicas y algoritmos de inteligencia artificial para la creación de sistemas inteligentes.",
-            "date": "Agosto 2022 - Actualidad",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "date": "Agosto 2022 - Actualidad"
         },
         {
             "icon": "graduation-cap",
