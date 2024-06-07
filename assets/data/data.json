@@ -52,7 +52,6 @@
                     "name": "Python"
                 }
             ],
-            "url": "https://github.com/Kurisari/RegEx-Modificado",
             "github": "https://github.com/Kurisari/RegEx-Modificado"
         },
         {
@@ -66,7 +65,6 @@
                     "name": "C++"
                 }
             ],
-            "url": "https://github.com/Kurisari/Mastermind_CPP",
             "github": "https://github.com/Kurisari/Mastermind_CPP"
         },
         {
@@ -80,7 +78,6 @@
                     "name": "Python"
                 }
             ],
-            "url": "https://github.com/Kurisari/Compresor_Archivos",
             "github": "https://github.com/Kurisari/Compresor_Archivos"
         },
         {
@@ -94,7 +91,6 @@
                     "name": "Python"
                 }
             ],
-            "url": "https://github.com/Kurisari/Rubik-s-Cube-Solver",
             "github": "https://github.com/Kurisari/Rubik-s-Cube-Solver"
         },
         {
@@ -108,8 +104,33 @@
                     "name": "Python"
                 }
             ],
-            "url": "https://github.com/Kurisari/quixo-bot",
             "github": "https://github.com/Kurisari/quixo-bot"
+        },
+        {
+            "icon": "navigation",
+            "title": "Foreigner's Corner",
+            "subtitle": "Página Web",
+            "description": "Página web de ayuda para foráneos de la Universidad Panamericana campus Aguascalientes.",
+            "technologies": [
+                {
+                    "icon": "navigation",
+                    "name": "Web"
+                }
+            ],
+            "url": "https://foreigners-corner-up-ags.odoo.com/"
+        },
+        {
+            "icon": "navigation",
+            "title": "Club CIMA",
+            "subtitle": "Página Web",
+            "description": "Página Web creada y gestionada por mi, en la cual se muestra acerca de esta causa social.",
+            "technologies": [
+                {
+                    "icon": "navigation",
+                    "name": "Web"
+                }
+            ],
+            "url": "https://www.clubcima.com.mx/"
         }
     ],
     "training": [
@@ -134,6 +155,18 @@
             "title": "Storytelling en el Marketing Digital",
             "description": "Santander Open Academy",
             "url": "https://media.licdn.com/dms/image/D562DAQFRqP4zw5dW4A/profile-treasury-document-images_1280/1/1716179645544?e=1718841600&v=beta&t=KUr5knK8TFAcklna50PdQHdx-K1kyKvXG8RY48vpKF8"
+        },
+        {
+            "image": "/extra2.png",
+            "title": "Transformación Digital",
+            "description": "Santander Open Academy",
+            "url": "https://media.licdn.com/dms/image/D562DAQHT63NiserMnQ/profile-treasury-document-images_1280/1/1716780699918?e=1718841600&v=beta&t=bUaNGLv7t0n2fdFARMd_8zYpmeOEDkw7Jo3obvySEdE"
+        },
+        {
+            "image": "/extra3.png",
+            "title": "AWS Discovery Day: Introducción a la nube y servicios de AWS",
+            "description": "Fast Lane LATAM",
+            "url": "https://media.licdn.com/dms/image/D562DAQF1XSpF1CVD6g/profile-treasury-document-images_1280/1/1717778293926?e=1718841600&v=beta&t=6IhYSuHkTHVGNqmyURSjzyFPTE2nbcGhuBNQ9NTziDM"
         }
     ]
 }
