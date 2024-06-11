@@ -35,7 +35,7 @@
         {
             "icon": "graduation-cap",
             "title": "Estudiante",
-            "subtitle": "Programador",
+            "subtitle": "Ingeniero en Inteligencia Artificial",
             "description": "Estudiante en Universidad Panamericana",
             "date": "ago. 2022 - Actualidad"
         },
@@ -138,6 +138,23 @@
                 }
             ],
             "url": "https://www.clubcima.com.mx/"
+        },
+        {
+            "icon": "dices",
+            "title": "Juegos Clásicos",
+            "subtitle": "Software Java",
+            "description": "Software que contiene tres juegos clásicos conectados a una base de datos con puntajes y usuarios.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                },
+                {
+                    "icon": "devicon-mysql-original",
+                    "name": "MySQL"
+                }
+            ],
+            "github": "https://github.com/Kurisari/juegos"
         }
     ],
     "training": [
