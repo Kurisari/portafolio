@@ -37,7 +37,14 @@
             "title": "Estudiante",
             "subtitle": "Programador",
             "description": "Estudiante en Universidad Panamericana",
-            "date": "2022 - Actualidad"
+            "date": "ago. 2022 - Actualidad"
+        },
+        {
+            "icon": "user",
+            "title": "Integra CEF (Comisión de Extranjeros y Foráneos)",
+            "subtitle": "Vicepresidente",
+            "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo, con el fin de tener un panorama más objetivo y consciente de la realidad.",
+            "date": "ene. 2023 - actualidad"
         }
     ],
     "projects": [
@@ -139,14 +146,14 @@
             "title": "Ingeniero en Inteligencia Artificial",
             "subtitle": "Universidad Panamericana",
             "description": "Estudio de las técnicas y algoritmos de inteligencia artificial para la creación de sistemas inteligentes.",
-            "date": "Agosto 2022 - Actualidad"
+            "date": "ago. 2022 - Actualidad"
         },
         {
             "icon": "graduation-cap",
             "title": "Técnico Agropecuario",
             "subtitle": "Escuela El Peñón",
             "description": "Gestión de proyectos agropecuarios.",
-            "date": "Agosto 2019 - Agosto 2022"
+            "date": "ago. 2019 - ago. 2022"
         }
     ],
     "extras": [
@@ -167,6 +174,18 @@
             "title": "AWS Discovery Day: Introducción a la nube y servicios de AWS",
             "description": "Fast Lane LATAM",
             "url": "https://media.licdn.com/dms/image/D562DAQF1XSpF1CVD6g/profile-treasury-document-images_1280/1/1717778293926?e=1718841600&v=beta&t=6IhYSuHkTHVGNqmyURSjzyFPTE2nbcGhuBNQ9NTziDM"
+        },
+        {
+            "image": "/extra4.png",
+            "title": "Reconocimiento por compromiso y liderazgo",
+            "description": "Expedida por UNETE: Universitarios en toda su expresión · may. 2023",
+            "url": ""
+        },
+        {
+            "image": "/extra5.png",
+            "title": "Reconocimiento mejor promedio de generación",
+            "description": "Expedida por Facultad de Ingeniería de la Universidad Panamericana Campus Aguascalientes · may. 2023",
+            "url": ""
         }
     ]
 }
