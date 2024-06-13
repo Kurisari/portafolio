@@ -130,7 +130,7 @@
             "icon": "navigation",
             "title": "Club CIMA",
             "subtitle": "Página Web",
-            "description": "Página Web creada y gestionada por mi, en la cual se muestra acerca de esta causa social.",
+            "description": "Página Web creada y administrada por mi, en la cual se muestra acerca de esta causa social.",
             "technologies": [
                 {
                     "icon": "devicon-html5-plain",
@@ -155,6 +155,19 @@
                 }
             ],
             "github": "https://github.com/Kurisari/juegos"
+        },
+        {
+            "icon": "navigation",
+            "title": "Integra UP Ags",
+            "subtitle": "Página Web",
+            "description": "Página Web creada y administrada por mi, que busca mostrar el departamento de Integra de la Universidad Panamericana Campus Aguascalientes.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "Web"
+                }
+            ],
+            "url": "https://integraupags.odoo.com/"
         }
     ],
     "training": [
