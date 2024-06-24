@@ -29,6 +29,14 @@
         {
             "icon": "devicon-javascript-plain",
             "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-html5-plain",
+            "name": "HTML"
+        },
+        {
+            "icon": "devicon-css3-plain",
+            "name": "CSS"
         }
     ],
     "experience": [
