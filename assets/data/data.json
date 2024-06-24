@@ -124,6 +124,7 @@
                     "name": "Web"
                 }
             ],
+            "image": "/foreigners-corner.png",
             "url": "https://foreigners-corner-up-ags.odoo.com/"
         },
         {
@@ -137,6 +138,7 @@
                     "name": "Web"
                 }
             ],
+            "image": "/club-cima.png",
             "url": "https://www.clubcima.com.mx/"
         },
         {
@@ -167,6 +169,7 @@
                     "name": "Web"
                 }
             ],
+            "image": "/integra.png",
             "url": "https://integraupags.odoo.com/"
         }
     ],
