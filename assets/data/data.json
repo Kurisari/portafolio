@@ -37,13 +37,17 @@
         {
             "icon": "devicon-css3-plain",
             "name": "CSS"
+        },
+        {
+            "icon": "devicon-github-original",
+            "name": "GitHub"
         }
     ],
     "experience": [
         {
             "icon": "user",
-            "title": "Integra CEF (Comisión de Extranjeros y Foráneos)",
-            "subtitle": "Vicepresidente",
+            "title": "Foráneos UP (antes Integra CEF)",
+            "subtitle": "Presidente",
             "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo, con el fin de tener un panorama más objetivo y consciente de la realidad.",
             "date": "ene. 2023 - actualidad"
         },
@@ -186,6 +190,20 @@
             ],
             "image": "/integra.png",
             "url": "https://integraupags.odoo.com/"
+        },
+        {
+            "icon": "navigation",
+            "title": "Portafolio",
+            "subtitle": "Página Web",
+            "description": "Página Web creada y administrada por mi, en el lenguaje python, con el fin de mostrar mi portafolio, usando el framework Reflex.",
+            "technologies": [
+                {
+                    "icon": "devicon-html5-plain",
+                    "name": "Web"
+                }
+            ],
+            "image": "/portafolio.png",
+            "url": "https://cristian-aragon-salazar.vercel.app"
         }
     ],
     "training": [
