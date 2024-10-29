@@ -46,17 +46,17 @@
     "experience": [
         {
             "icon": "user",
+            "title": "Consejo de Alumnos de la Universidad Panamericana Campus Aguascalientes",
+            "subtitle": "Secretario",
+            "description": "Encargado de la comunicación interna del consejo, así como la toma de minutas y la comunicación con rectoría.",
+            "date": "ago. 2024 - actualidad"
+        },
+        {
+            "icon": "user",
             "title": "Foráneos UP (antes Integra CEF)",
             "subtitle": "Presidente",
             "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo, con el fin de tener un panorama más objetivo y consciente de la realidad.",
             "date": "ene. 2023 - actualidad"
-        },
-        {
-            "icon": "mail",
-            "title": "Club CIMA",
-            "subtitle": "Director de Comunicaciones",
-            "description": "Encargado de la comunicación interna y externa del club, así como de la creación de contenido para las redes sociales.",
-            "date": "ago. 2021 - actualidad"
         },
         {
             "icon": "paintbrush",
@@ -64,6 +64,13 @@
             "subtitle": "Social Media Designer",
             "description": "Diseño de contenido para redes sociales y creación de campañas publicitarias.",
             "date": "ago. 2022 - may. 2023"
+        },
+        {
+            "icon": "mail",
+            "title": "Club CIMA",
+            "subtitle": "Director de Comunicaciones",
+            "description": "Encargado de la comunicación interna y externa del club, así como de la creación de contenido para las redes sociales.",
+            "date": "ago. 2021 - actualidad"
         }
     ],
     "projects": [
