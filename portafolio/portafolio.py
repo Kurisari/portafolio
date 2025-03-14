@@ -6,6 +6,7 @@ from portafolio.views.extra import extra
 from portafolio.views.footer import footer
 from portafolio.views.header import header
 from portafolio.views.info import info
+from portafolio.views.gallery import gallery
 from portafolio.views.tech_stack import tech_stack
 from portafolio.components.color_button import color_button
 
@@ -25,6 +26,7 @@ def index() -> rx.Component:
             info("Proyectos", DATA.projects),
             info("Formación", DATA.training),
             extra(DATA.extras),
+            # gallery(DATA.gallery),
             rx.divider(),
             footer(DATA.media),
             spacing=Size.MEDIUM.value,
