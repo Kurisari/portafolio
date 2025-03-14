@@ -37,6 +37,11 @@ class Extra:
         self.url = url
 
 
+class GalleryImage:
+    def __init__(self, image):
+        self.image = image
+
+
 class Data:
     def __init__(
         self,
@@ -53,7 +58,8 @@ class Data:
             experience,
             projects,
             training,
-            extras
+            extras,
+            gallery
     ):
         self.title = title
         self.description = description
@@ -69,6 +75,7 @@ class Data:
         self.projects = [Info(**info) for info in projects]
         self.training = [Info(**info) for info in training]
         self.extras = [Extra(**info) for info in extras]
+        self.gallery = [GalleryImage(**img) for img in gallery]
 
 
 with open("assets/data/data.json", 'r', encoding='utf-8') as file:
