@@ -267,5 +267,25 @@
             "description": "Expedida por Emtech · feb. 2024",
             "url": ""
         }
+    ],
+    "gallery": [
+        {
+            "image": "https://picsum.photos/200/300"
+        },
+        {
+            "image": "https://picsum.photos/300/300"
+        },
+        {
+            "image": "https://picsum.photos/400/200"
+        },
+        {
+            "image": "https://picsum.photos/500/500"
+        },
+        {
+            "image": "https://picsum.photos/400/300"
+        },
+        {
+            "image": "https://picsum.photos/300/200"
+        }
     ]
 }
