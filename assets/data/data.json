@@ -46,6 +46,20 @@
     "experience": [
         {
             "icon": "user",
+            "title": "Foráneos UP",
+            "subtitle": "Presidente",
+            "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo, con el fin de tener un panorama más objetivo y consciente de la realidad.",
+            "date": "ene. 2025 - actualidad"
+        },
+        {
+            "icon": "user",
+            "title": "Burkle Fumigaciones",
+            "subtitle": "Desarrollador Web",
+            "description": "Desarrollo de una página web para la empresa Burkle Fumigaciones, con el fin de mostrar sus servicios y productos.",
+            "date": "ago. 2024 - ene. 2025"
+        },
+        {
+            "icon": "user",
             "title": "Consejo de Alumnos de la Universidad Panamericana Campus Aguascalientes",
             "subtitle": "Secretario",
             "description": "Encargado de la comunicación interna del consejo, así como la toma de minutas y la comunicación con rectoría.",
@@ -53,10 +67,10 @@
         },
         {
             "icon": "user",
-            "title": "Foráneos UP (antes Integra CEF)",
-            "subtitle": "Presidente",
-            "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo, con el fin de tener un panorama más objetivo y consciente de la realidad.",
-            "date": "ene. 2023 - actualidad"
+            "title": "Integra CEF (Comisión de Extranjeros y Foráneos)",
+            "subtitle": "Viceresidente",
+            "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo. ",
+            "date": "ene. 2023 - dic. 2024"
         },
         {
             "icon": "paintbrush",
