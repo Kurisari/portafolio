@@ -75,6 +75,31 @@
     ],
     "projects": [
         {
+            "icon": "university",
+            "title": "Foráneos UP Dashboard",
+            "subtitle": "Plataforma de gestión y analítica para alumnos foráneos",
+            "description": "Aplicación web desarrollada para la mesa directiva de Foráneos UP. Permite gestionar alumnos, cargar datos masivamente, llevar un historial de cambios y visualizar analíticas interactivas en tiempo real (carreras, semestres, orígenes, cumpleaños, etc.). Integra autenticación segura y base de datos en Firebase.",
+            "technologies": [
+                {
+                    "icon": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "icon": "devicon-firebase-plain",
+                    "name": "Firebase"
+                },
+                {
+                    "icon": "devicon-materialui-plain",
+                    "name": "Material UI"
+                },
+                {
+                    "icon": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                }
+            ],
+            "github": "https://github.com/Kurisari/foraneos-up-dashboard"
+        },
+        {
             "icon": "regex",
             "title": "RegEx-Modificado",
             "subtitle": "Software Estructuras de Datos y Algoritmos",
