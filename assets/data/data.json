@@ -75,7 +75,7 @@
     ],
     "projects": [
         {
-            "icon": "university",
+            "icon": "book",
             "title": "Foráneos UP Dashboard",
             "subtitle": "Plataforma de gestión y analítica para alumnos foráneos",
             "description": "Aplicación web desarrollada para la mesa directiva de Foráneos UP. Permite gestionar alumnos, cargar datos masivamente, llevar un historial de cambios y visualizar analíticas interactivas en tiempo real (carreras, semestres, orígenes, cumpleaños, etc.). Integra autenticación segura y base de datos en Firebase.",
