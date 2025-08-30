@@ -185,8 +185,8 @@
             "description": "Página Web creada y administrada por mi, en el lenguaje python, con el fin de mostrar mi portafolio, usando el framework Reflex.",
             "technologies": [
                 {
-                    "icon": "devicon-html5-plain",
-                    "name": "Web"
+                    "icon": "devicon-reflex-plain",
+                    "name": "Reflex"
                 }
             ],
             "image": "/portafolio.png",
