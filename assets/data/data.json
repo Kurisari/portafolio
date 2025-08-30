@@ -97,7 +97,7 @@
                     "name": "JavaScript"
                 }
             ],
-            "github": "https://github.com/Kurisari/foraneos-up-dashboard"
+            "image": "/fup.png"
         },
         {
             "icon": "regex",
