@@ -165,23 +165,6 @@
             "github": "https://github.com/Kurisari/quixo-bot"
         },
         {
-            "icon": "dices",
-            "title": "Juegos Clásicos",
-            "subtitle": "Software Java",
-            "description": "Software que contiene tres juegos clásicos conectados a una base de datos con puntajes y usuarios, usando programación orientada a objetos.",
-            "technologies": [
-                {
-                    "icon": "devicon-java-plain",
-                    "name": "Java"
-                },
-                {
-                    "icon": "devicon-mysql-original",
-                    "name": "MySQL"
-                }
-            ],
-            "github": "https://github.com/Kurisari/juegos"
-        },
-        {
             "icon": "navigation",
             "title": "Foreigner's Corner",
             "subtitle": "Página Web",
@@ -194,34 +177,6 @@
             ],
             "image": "/foreigners-corner.png",
             "url": "https://foreigners-corner-up-ags.odoo.com/"
-        },
-        {
-            "icon": "navigation",
-            "title": "Club CIMA",
-            "subtitle": "Página Web",
-            "description": "Página Web creada y administrada por mi, en la cual se muestra acerca de esta causa social.",
-            "technologies": [
-                {
-                    "icon": "devicon-html5-plain",
-                    "name": "Web"
-                }
-            ],
-            "image": "/club-cima.png",
-            "url": "https://www.clubcima.com.mx/"
-        },
-        {
-            "icon": "navigation",
-            "title": "Integra UP Ags",
-            "subtitle": "Página Web",
-            "description": "Página Web creada y administrada por mi, que busca mostrar el departamento de Integra de la Universidad Panamericana Campus Aguascalientes.",
-            "technologies": [
-                {
-                    "icon": "devicon-html5-plain",
-                    "name": "Web"
-                }
-            ],
-            "image": "/integra.png",
-            "url": "https://integraupags.odoo.com/"
         },
         {
             "icon": "navigation",
