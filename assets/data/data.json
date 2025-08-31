@@ -100,43 +100,34 @@
             "image": "/fup.png"
         },
         {
-            "icon": "regex",
-            "title": "RegEx-Modificado",
+            "icon": "swords",
+            "title": "Quixo Bot",
             "subtitle": "Software Estructuras de Datos y Algoritmos",
-            "description": "Software que permite la creación de expresiones regulares y su posterior evaluación en un texto de entrada.",
+            "description": "Bot que juega Quixo contra otro bot que utiliza el algoritmo minimax con poda alfa-beta para tomar decisiones.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 }
             ],
-            "github": "https://github.com/Kurisari/RegEx-Modificado"
+            "github": "https://github.com/Kurisari/quixo-bot"
         },
         {
-            "icon": "gamepad-2",
-            "title": "Mastermind",
-            "subtitle": "Juego",
-            "description": "Juego de lógica en el que el jugador debe adivinar una combinación de colores oculta en el menor número de intentos posibles.",
-            "technologies": [
-                {
-                    "icon": "devicon-cplusplus-plain",
-                    "name": "C++"
-                }
-            ],
-            "github": "https://github.com/Kurisari/Mastermind_CPP"
-        },
-        {
-            "icon": "file-diff",
-            "title": "Compresor de Archivos",
-            "subtitle": "Software Estructuras de Datos y Algoritmos",
-            "description": "Software que permite la compresión y descompresión de archivos utilizando el algoritmo de compresión Huffman.",
+            "icon": "brain",
+            "title": "Kvasir-AI",
+            "subtitle": "Deep Learning · Medical Imaging",
+            "description": "Sistema de deep learning para la clasificación de imágenes endoscópicas usando ResNet18 y DenseNet121, con Grad-CAM para interpretabilidad.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
+                },
+                {
+                    "icon": "devicon-pytorch-plain",
+                    "name": "PyTorch"
                 }
             ],
-            "github": "https://github.com/Kurisari/Compresor_Archivos"
+            "github": "https://github.com/Kurisari/Kvasir-AI"
         },
         {
             "icon": "box",
@@ -152,17 +143,43 @@
             "github": "https://github.com/Kurisari/Rubik-s-Cube-Solver"
         },
         {
-            "icon": "swords",
-            "title": "Quixo Bot",
+            "icon": "file-diff",
+            "title": "Compresor de Archivos",
             "subtitle": "Software Estructuras de Datos y Algoritmos",
-            "description": "Bot que juega Quixo contra otro bot que utiliza el algoritmo minimax con poda alfa-beta para tomar decisiones.",
+            "description": "Software que permite la compresión y descompresión de archivos utilizando el algoritmo de compresión Huffman.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 }
             ],
-            "github": "https://github.com/Kurisari/quixo-bot"
+            "github": "https://github.com/Kurisari/Compresor_Archivos"
+        },
+        {
+            "icon": "gamepad-2",
+            "title": "Mastermind",
+            "subtitle": "Juego",
+            "description": "Juego de lógica en el que el jugador debe adivinar una combinación de colores oculta en el menor número de intentos posibles.",
+            "technologies": [
+                {
+                    "icon": "devicon-cplusplus-plain",
+                    "name": "C++"
+                }
+            ],
+            "github": "https://github.com/Kurisari/Mastermind_CPP"
+        },
+        {
+            "icon": "regex",
+            "title": "RegEx-Modificado",
+            "subtitle": "Software Estructuras de Datos y Algoritmos",
+            "description": "Software que permite la creación de expresiones regulares y su posterior evaluación en un texto de entrada.",
+            "technologies": [
+                {
+                    "icon": "devicon-python-plain",
+                    "name": "Python"
+                }
+            ],
+            "github": "https://github.com/Kurisari/RegEx-Modificado"
         },
         {
             "icon": "navigation",
