@@ -1,26 +1,26 @@
 {
-    "title": "Cristian Aragón Salazar | Portafolio",
-    "description": "Ingeniero en Inteligencia Artificial",
+    "title": "Cristian Aragón Salazar | Portfolio",
+    "description": "Artificial Intelligence Engineer",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
     "name": "Cristian Aragón Salazar",
-    "skill": "Ing. Inteligencia Artificial",
-    "location": "Aguascalientes, México",
+    "skill": "Artificial Intelligence Engineer",
+    "location": "Aguascalientes, Mexico",
     "media": {
         "email": "crisarag8.sal@gmail.com",
         "cv": "/data/cv.pdf",
         "github": "https://github.com/Kurisari",
         "likedin": "https://www.linkedin.com/in/cristian-aragon-salazar/"
     },
-    "about": "Soy un Ingeniero en Inteligencia Artificial con experiencia en el desarrollo de software y aplicaciones web. Me apasiona la tecnología y la programación, siempre estoy en constante aprendizaje y me gusta enfrentar nuevos retos. Me considero una persona proactiva, responsable y comprometida con mi trabajo.",
+    "about": "I am an Artificial Intelligence Engineer with experience in software development and web applications. Passionate about technology and programming, I am committed to continuous learning and enjoy tackling new challenges. I am proactive, responsible, and dedicated to my work.",
     "technologies": [
-        {
-            "icon": "devicon-cplusplus-plain",
-            "name": "C++"
-        },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
         },
         {
             "icon": "devicon-java-plain",
@@ -29,6 +29,22 @@
         {
             "icon": "devicon-javascript-plain",
             "name": "JavaScript"
+        },
+        {
+            "icon": "devicon-react-original",
+            "name": "React"
+        },
+        {
+            "icon": "devicon-materialui-plain",
+            "name": "Material UI"
+        },
+        {
+            "icon": "devicon-firebase-plain",
+            "name": "Firebase"
+        },
+        {
+            "icon": "devicon-pytorch-plain",
+            "name": "PyTorch"
         },
         {
             "icon": "devicon-html5-plain",
@@ -41,44 +57,41 @@
         {
             "icon": "devicon-github-original",
             "name": "GitHub"
+        },
+        {
+            "icon": "devicon-reflex-plain",
+            "name": "Reflex"
         }
     ],
     "experience": [
         {
             "icon": "user",
             "title": "Foráneos UP",
-            "subtitle": "Presidente",
-            "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo, con el fin de tener un panorama más objetivo y consciente de la realidad.",
-            "date": "ene. 2025 - actualidad"
+            "subtitle": "President",
+            "description": "Guided and supervised team operations, promoted collaboration, and fostered an efficient work environment aligned with objectives.",
+            "date": "Jan 2025 - Present"
         },
         {
             "icon": "user",
-            "title": "Burkle Fumigaciones",
-            "subtitle": "Desarrollador Web",
-            "description": "Desarrollo de una página web para la empresa Burkle Fumigaciones, con el fin de mostrar sus servicios y productos.",
-            "date": "ago. 2024 - ene. 2025"
+            "title": "Burkle Exterminadores",
+            "subtitle": "Web Developer",
+            "description": "Developed and deployed the company website to attract clients, designed a blog and Q&A forum to increase interaction, and optimized structure for better navigation.",
+            "date": "Aug 2024 - Dec 2024"
         },
         {
             "icon": "user",
-            "title": "Consejo de Alumnos de la Universidad Panamericana Campus Aguascalientes",
-            "subtitle": "Secretario",
-            "description": "Encargado de la comunicación interna del consejo, así como la toma de minutas y la comunicación con rectoría.",
-            "date": "ago. 2024 - ago. 2025"
-        },
-        {
-            "icon": "user",
-            "title": "Integra CEF (Comisión de Extranjeros y Foráneos)",
-            "subtitle": "Viceresidente",
-            "description": "Encargado de supervisar de manera individual las funciones estratégicas de cada uno de los miembros del equipo. ",
-            "date": "ene. 2023 - dic. 2024"
+            "title": "Integra CEF (Foreign Students Commission)",
+            "subtitle": "Vice President",
+            "description": "Supervised strategic functions of team members, ensured completion of responsibilities, and developed the organization’s website.",
+            "date": "Aug 2023 - Dec 2024"
         }
     ],
     "projects": [
         {
             "icon": "book",
             "title": "Foráneos UP Dashboard",
-            "subtitle": "Plataforma de gestión y analítica para alumnos foráneos",
-            "description": "Aplicación web desarrollada para la mesa directiva de Foráneos UP. Permite gestionar alumnos, cargar datos masivamente, llevar un historial de cambios y visualizar analíticas interactivas en tiempo real (carreras, semestres, orígenes, cumpleaños, etc.). Integra autenticación segura y base de datos en Firebase.",
+            "subtitle": "Management and Analytics Platform for Foreign Students",
+            "description": "Developed a web platform to manage students, bulk upload data, track changes, and visualize real-time interactive analytics. Integrated Firebase for authentication and scalability.",
             "technologies": [
                 {
                     "icon": "devicon-react-original",
@@ -102,8 +115,8 @@
         {
             "icon": "swords",
             "title": "Quixo Bot",
-            "subtitle": "Software Estructuras de Datos y Algoritmos",
-            "description": "Bot que juega Quixo contra otro bot que utiliza el algoritmo minimax con poda alfa-beta para tomar decisiones.",
+            "subtitle": "Data Structures and Algorithms Software",
+            "description": "Developed a competitive Quixo bot using minimax with alpha-beta pruning, improved heuristics, and tested across scenarios for optimal strategy.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -116,7 +129,7 @@
             "icon": "brain",
             "title": "Kvasir-AI",
             "subtitle": "Deep Learning · Medical Imaging",
-            "description": "Sistema de deep learning para la clasificación de imágenes endoscópicas usando ResNet18 y DenseNet121, con Grad-CAM para interpretabilidad.",
+            "description": "Built a deep learning system for endoscopic image classification using ResNet18 and DenseNet121. Applied preprocessing (CLAHE, data augmentation) and Grad-CAM visualizations for interpretability. Achieved 88.75% accuracy with DenseNet121.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -131,9 +144,9 @@
         },
         {
             "icon": "box",
-            "title": "Solucionador de Cubos Rubik",
-            "subtitle": "Software Estructuras de Datos y Algoritmos",
-            "description": "Software que permite resolver un cubo Rubik de 3x3x3 utilizando los algoritmos de: búsqueda en anchura (BFS), a*, e ida*.",
+            "title": "Rubik's Cube Solver",
+            "subtitle": "Data Structures and Algorithms Software",
+            "description": "Implemented a 3x3x3 Rubik’s Cube solver using BFS, A*, and IDA*. Optimized efficiency to reduce moves and added visualization for usability.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -144,9 +157,9 @@
         },
         {
             "icon": "file-diff",
-            "title": "Compresor de Archivos",
-            "subtitle": "Software Estructuras de Datos y Algoritmos",
-            "description": "Software que permite la compresión y descompresión de archivos utilizando el algoritmo de compresión Huffman.",
+            "title": "File Compressor",
+            "subtitle": "Data Structures and Algorithms Software",
+            "description": "Built a Huffman coding-based tool to compress and decompress files, reducing file size by up to 20%, with a simple interface.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -158,8 +171,8 @@
         {
             "icon": "gamepad-2",
             "title": "Mastermind",
-            "subtitle": "Juego",
-            "description": "Juego de lógica en el que el jugador debe adivinar una combinación de colores oculta en el menor número de intentos posibles.",
+            "subtitle": "Game",
+            "description": "Developed a color-combination logic game with feedback hints to enhance the user experience.",
             "technologies": [
                 {
                     "icon": "devicon-cplusplus-plain",
@@ -170,9 +183,9 @@
         },
         {
             "icon": "regex",
-            "title": "RegEx-Modificado",
-            "subtitle": "Software Estructuras de Datos y Algoritmos",
-            "description": "Software que permite la creación de expresiones regulares y su posterior evaluación en un texto de entrada.",
+            "title": "Modified RegEx",
+            "subtitle": "Data Structures and Algorithms Software",
+            "description": "Developed software to create and test regular expressions, optimized processing, and designed an interactive interface for real-time validation.",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -184,8 +197,8 @@
         {
             "icon": "navigation",
             "title": "Foreigner's Corner",
-            "subtitle": "Página Web",
-            "description": "Página web de ayuda para foráneos de la Universidad Panamericana campus Aguascalientes.",
+            "subtitle": "Website",
+            "description": "Designed a support website with FAQs for international students, improving accessibility and usability.",
             "technologies": [
                 {
                     "icon": "devicon-html5-plain",
@@ -197,9 +210,9 @@
         },
         {
             "icon": "navigation",
-            "title": "Portafolio",
-            "subtitle": "Página Web",
-            "description": "Página Web creada y administrada por mi, en el lenguaje python, con el fin de mostrar mi portafolio, usando el framework Reflex.",
+            "title": "Portfolio",
+            "subtitle": "Website",
+            "description": "Developed and manage a personal portfolio using Python and the Reflex framework to showcase projects and achievements.",
             "technologies": [
                 {
                     "icon": "devicon-reflex-plain",
@@ -214,54 +227,54 @@
     "training": [
         {
             "icon": "backpack",
-            "title": "Ingeniero en Inteligencia Artificial",
+            "title": "Artificial Intelligence Engineer",
             "subtitle": "Universidad Panamericana",
-            "description": "Estudio de las técnicas y algoritmos de inteligencia artificial para la creación de sistemas inteligentes.",
-            "date": "ago. 2022 - Actualidad"
+            "description": "Study of artificial intelligence techniques and algorithms for building intelligent systems.",
+            "date": "Aug 2022 - Present"
         },
         {
             "icon": "graduation-cap",
-            "title": "Técnico Agropecuario",
+            "title": "Agricultural Technician",
             "subtitle": "Escuela El Peñón",
-            "description": "Gestión de proyectos agropecuarios.",
-            "date": "ago. 2019 - ago. 2022"
+            "description": "Management of agricultural projects.",
+            "date": "Aug 2019 - Aug 2022"
         }
     ],
     "extras": [
         {
             "image": "/extra1.png",
-            "title": "Storytelling en el Marketing Digital",
+            "title": "Storytelling in Digital Marketing",
             "description": "Santander Open Academy",
             "url": "https://media.licdn.com/dms/image/D562DAQFRqP4zw5dW4A/profile-treasury-document-images_1280/1/1716179645544?e=1718841600&v=beta&t=KUr5knK8TFAcklna50PdQHdx-K1kyKvXG8RY48vpKF8"
         },
         {
             "image": "/extra2.png",
-            "title": "Transformación Digital",
+            "title": "Digital Transformation",
             "description": "Santander Open Academy",
             "url": "https://media.licdn.com/dms/image/D562DAQHT63NiserMnQ/profile-treasury-document-images_1280/1/1716780699918?e=1718841600&v=beta&t=bUaNGLv7t0n2fdFARMd_8zYpmeOEDkw7Jo3obvySEdE"
         },
         {
             "image": "/extra3.png",
-            "title": "AWS Discovery Day: Introducción a la nube y servicios de AWS",
+            "title": "AWS Discovery Day: Introduction to Cloud and AWS Services",
             "description": "Fast Lane LATAM",
             "url": "https://media.licdn.com/dms/image/D562DAQF1XSpF1CVD6g/profile-treasury-document-images_1280/1/1717778293926?e=1718841600&v=beta&t=6IhYSuHkTHVGNqmyURSjzyFPTE2nbcGhuBNQ9NTziDM"
         },
         {
             "image": "/extra4.png",
-            "title": "Reconocimiento por compromiso y liderazgo",
-            "description": "Expedida por UNETE: Universitarios en toda su expresión · may. 2023",
+            "title": "Recognition for Commitment and Leadership",
+            "description": "Awarded by UNETE: Universitarios en toda su expresión · May 2023",
             "url": ""
         },
         {
             "image": "/extra5.jpg",
-            "title": "Reconocimiento mejor promedio de generación",
-            "description": "Expedida por Facultad de Ingeniería de la Universidad Panamericana Campus Aguascalientes · may. 2023",
+            "title": "Recognition for Highest GPA in Class",
+            "description": "Awarded by the Faculty of Engineering at Universidad Panamericana Campus Aguascalientes · May 2023",
             "url": ""
         },
         {
             "image": "/extra6.png",
-            "title": "Introducción a las Tecnologías Emergentes: Edición 2024",
-            "description": "Expedida por Emtech · feb. 2024",
+            "title": "Introduction to Emerging Technologies: 2024 Edition",
+            "description": "Awarded by Emtech · Feb 2024",
             "url": ""
         }
     ],
